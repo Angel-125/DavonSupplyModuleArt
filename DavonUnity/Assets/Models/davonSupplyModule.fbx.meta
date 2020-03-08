@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 091d04b4c16aecf4991dbfd22b57a69f
+timeCreated: 1583621127
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Cylinder001
+    100002: //RootNode
+    100004: DockingPort
+    100006: DockingRing
+    100008: leftDoor
+    100010: MainBody
+    100012: rightDoor
+    100014: tankAssembly
+    100016: collider
+    100018: dockingCylinder
+    100020: DockingPortCollider
+    400000: Cylinder001
+    400002: //RootNode
+    400004: DockingPort
+    400006: DockingRing
+    400008: leftDoor
+    400010: MainBody
+    400012: rightDoor
+    400014: tankAssembly
+    400016: collider
+    400018: dockingCylinder
+    400020: DockingPortCollider
+    2300000: Cylinder001
+    2300002: DockingRing
+    2300004: leftDoor
+    2300006: MainBody
+    2300008: rightDoor
+    2300010: tankAssembly
+    2300012: collider
+    2300014: dockingCylinder
+    2300016: DockingPortCollider
+    3300000: Cylinder001
+    3300002: DockingRing
+    3300004: leftDoor
+    3300006: MainBody
+    3300008: rightDoor
+    3300010: tankAssembly
+    3300012: collider
+    3300014: dockingCylinder
+    3300016: DockingPortCollider
+    4300000: leftDoor
+    4300002: rightDoor
+    4300004: Cylinder001
+    4300006: DockingRing
+    4300008: tankAssembly
+    4300010: MainBody
+    4300012: collider
+    4300014: dockingCylinder
+    4300016: DockingPortCollider
+    7400000: Deploy
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Deploy
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

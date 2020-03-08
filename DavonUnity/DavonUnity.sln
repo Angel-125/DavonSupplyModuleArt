@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DavonUnity.Plugins", "DavonUnity.Plugins.csproj", "{572B9F4E-7F7C-C49A-2B42-A86D01279F28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DavonUnity.Editor", "DavonUnity.Editor.csproj", "{9AB720FF-D528-68FD-4C2F-FE62640301C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{572B9F4E-7F7C-C49A-2B42-A86D01279F28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{572B9F4E-7F7C-C49A-2B42-A86D01279F28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{572B9F4E-7F7C-C49A-2B42-A86D01279F28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{572B9F4E-7F7C-C49A-2B42-A86D01279F28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AB720FF-D528-68FD-4C2F-FE62640301C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AB720FF-D528-68FD-4C2F-FE62640301C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AB720FF-D528-68FD-4C2F-FE62640301C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AB720FF-D528-68FD-4C2F-FE62640301C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
